@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<group>
+	<Agent_params>
+		<maxSpeed>4.3</maxSpeed>
+		<turningSpeed>0.7</turningSpeed>
+		<sensorAngle>0.55</sensorAngle>
+		<sensorDistance>18</sensorDistance>
+		<sensorSize>1</sensorSize>
+		<foodDesire>10</foodDesire>
+	</Agent_params>
+	<Pheromone_params>
+		<decayWeight>0.14</decayWeight>
+		<diffusionWeight>0.7</diffusionWeight>
+	</Pheromone_params>
+</group>
