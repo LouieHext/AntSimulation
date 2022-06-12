@@ -5,11 +5,11 @@ This is a pheromone based ant simulation. Ants will leave their nest in search o
 It is made using compute shaders and openframeworks, to run compute shaders you need openGl 4.3 which sadly is not supported by MacOs.
 
 
-#To play
+# To play
 pressing "r" restarts the current map
 pressing "g" generates a new map (note there is currently no check for if ants spawn inside a wall)
 
-#To Setup
+# To Setup
 Clone the repo
 set up a new openframeworks project with ofxGui
 copy the code from the project into the clone, or visa versa
